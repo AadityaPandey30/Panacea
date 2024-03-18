@@ -21,3 +21,6 @@ To get started with Panacea, simply follow these steps:
 
 .
 
+![Home Page](https://github.com/AadityaPandey30/Panacea/assets/125696438/0e11408d-2baf-42ef-83e7-c980bfb3763a)
+![Card View](https://github.com/AadityaPandey30/Panacea/assets/125696438/bc26d176-78d4-4864-93e8-6310e620ee9d)
+![Order Page](https://github.com/AadityaPandey30/Panacea/assets/125696438/a4c0d308-9b3e-41e7-b6f4-b89b9a68493a)
