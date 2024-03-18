@@ -20,5 +20,5 @@ To get started with Panacea, simply follow these steps:
 5. Need assistance or have feedback? Reach out to our team via the contact us page.
 
 .
-View the demo video through the below link:
+View the demo video through this link:
 https://drive.google.com/file/d/12F-5QBeCW1IqpxXrNgrN1vIp5lEG2p9h/view?usp=drive_link
