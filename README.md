@@ -20,7 +20,5 @@ To get started with Panacea, simply follow these steps:
 5. Need assistance or have feedback? Reach out to our team via the contact us page.
 
 .
-
-![Home Page](https://github.com/AadityaPandey30/Panacea/assets/125696438/0e11408d-2baf-42ef-83e7-c980bfb3763a)
-![Card View](https://github.com/AadityaPandey30/Panacea/assets/125696438/bc26d176-78d4-4864-93e8-6310e620ee9d)
-![Order Page](https://github.com/AadityaPandey30/Panacea/assets/125696438/a4c0d308-9b3e-41e7-b6f4-b89b9a68493a)
+View the demo video through the below link:
+https://drive.google.com/file/d/12F-5QBeCW1IqpxXrNgrN1vIp5lEG2p9h/view?usp=drive_link
