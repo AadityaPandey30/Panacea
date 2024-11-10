@@ -1,5 +1,8 @@
 # Panacea
 
+## Video demo
+https://drive.google.com/file/d/12F-5QBeCW1IqpxXrNgrN1vIp5lEG2p9h/view?usp=sharing
+
 ## Overview
 Panacea is an innovative platform designed to revolutionize the way startups initiate their journey. Say goodbye to the complexities and delays associated with web and Android app development. Our streamlined solution offers easy category selection and tailored UI designs, making the startup initiation process smoother than ever before. With our platform, entrepreneurs can bring their ideas to life swiftly and cost-effectively, without the need for extensive technical knowledge.
 
