@@ -50,9 +50,7 @@ const Orders = () => {
           </div>
         ))}
       </div>
-      <h1 className="mb-[20px] text-4xl decor font-semibold pb-5">
-        Book a meeting
-      </h1>
+    
       <Calender />
     </div>
   );
