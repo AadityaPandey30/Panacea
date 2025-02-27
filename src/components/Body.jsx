@@ -20,7 +20,7 @@ const Body = () => {
   const handleGetStarted = async (sectionId) => {
     const jwt = localStorage.getItem("jwt");
     try {
-      let response = await fetch("http://localhost:3000/verifyToken", {
+      let response = await fetch("https://panacea-rbmc.onrender.com/verifyToken", {
         method: "get",
         headers: {
           Authorization: `Bearer ${jwt}`,
@@ -44,7 +44,7 @@ const Body = () => {
   const handleServiceChoice=async(sectionId,chosenService)=>{
     const jwt = localStorage.getItem("jwt");
     try {
-      let response = await fetch("http://localhost:3000/verifyToken", {
+      let response = await fetch("https://panacea-rbmc.onrender.com/verifyToken", {
         method: "get",
         headers: {
           Authorization: `Bearer ${jwt}`,

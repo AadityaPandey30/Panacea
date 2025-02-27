@@ -57,7 +57,7 @@ const SaleCardDetail = () => {
       alert("Name and Email are required.");
       return;
     }
-    let request=await fetch("http://localhost:3000/requestOrder",{
+    let request=await fetch("https://panacea-rbmc.onrender.com/requestOrder",{
       body:JSON.stringify({selectedColor,selectedImage,description,Name,Email,choiceOfService}),
       method:"POST",
       headers:{

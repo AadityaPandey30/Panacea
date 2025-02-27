@@ -14,7 +14,7 @@ const Signin = () => {
   const registerUser = async (e) => {
     e.preventDefault();
     try {
-      let curUser = await fetch("http://localhost:3000/register", {
+      let curUser = await fetch("https://panacea-rbmc.onrender.com/register", {
         method: "post",
         body: JSON.stringify({ Name: name, Email: email, Password: password }),
         headers: {

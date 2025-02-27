@@ -22,7 +22,7 @@ const Orders = () => {
     }, 2000);
   }, []);
   const getStatus = async () => {
-    let status = await fetch("http://localhost:3000/status", {
+    let status = await fetch("https://panacea-rbmc.onrender.com/status", {
       method: "Post",
       body: JSON.stringify({ Email }),
       headers: {

@@ -7,7 +7,7 @@ const ContactUs = () => {
   const [subject, setSubject] = useState("");
   const [message, setMessage] = useState("");
   const handleClick=async()=>{
-    let contact=await fetch("http://localhost:3000/contactus",{
+    let contact=await fetch("https://panacea-rbmc.onrender.com/contactus",{
       body:JSON.stringify({name,email,subject,message}),
       method:"post",
       headers:{

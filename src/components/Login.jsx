@@ -13,7 +13,7 @@ const Login = () => {
 const loginUser = async (e) => {
   e.preventDefault();
   try {
-    let user = await fetch("http://localhost:3000/login", {
+    let user = await fetch("https://panacea-rbmc.onrender.com/login", {
       method: "post",
       body: JSON.stringify({ Email: email, Password: password }),
       headers: {
