@@ -124,7 +124,7 @@ const Body = () => {
       <div className="all-cards">
         <div className="salecard" onClick={()=>handleSalecardClick("section1","/details/SocialMedia")}>
             <img
-              src="../../../images/social media.png"
+              src="/images/social media.png"
               alt="cardImage"
               className="card-image"
             />
@@ -138,7 +138,7 @@ const Body = () => {
         </div>
         <div className="salecard" onClick={()=>handleSalecardClick("section1","/details/Entertainment")} >
           <img
-            src="../../../images/entertainment.png"
+            src="/images/entertainment.png"
             alt="cardImage"
             className="card-image"
           />
@@ -151,7 +151,7 @@ const Body = () => {
 
         <div className="salecard" onClick={()=>handleSalecardClick("section1","/details/HealthAndFitness")} >
           <img
-            src="../../../images/Health and fitness.png"
+            src="/images/Health and fitness.png"
             alt="cardImage"
             className="card-image"
           />
@@ -166,7 +166,7 @@ const Body = () => {
 
         <div className="salecard" onClick={()=>handleSalecardClick("section1","/details/Education")} >
           <img
-            src="../../../images/education.png"
+            src="/images/education.png"
             alt="cardImage"
             className="card-image"
           />
@@ -181,7 +181,7 @@ const Body = () => {
 
         <div className="salecard" onClick={()=>handleSalecardClick("section1","/details/TravelAndNavigation")} >
           <img
-            src="../../../images/travel and navigation.png"
+            src="/images/travel and navigation.png"
             alt="cardImage"
             className="card-image"
           />
@@ -196,7 +196,7 @@ const Body = () => {
 
         <div className="salecard" onClick={()=>handleSalecardClick("section1","/details/Shopping")} >
           <img
-            src="../../../images/shopping.png"
+            src="/images/shopping.png"
             alt="cardImage"
             className="card-image"
           />
@@ -209,7 +209,7 @@ const Body = () => {
 
         <div className="salecard" onClick={()=>handleSalecardClick("section1","/details/MedicalAndHealth")} >
           <img
-            src="../../../images/medical and health.png"
+            src="/images/medical and health.png"
             alt="cardImage"
             className="card-image"
           />
@@ -224,7 +224,7 @@ const Body = () => {
 
         <div className="salecard" onClick={()=>handleSalecardClick("section1","/details/FoodAndDrink")} >
           <img
-            src="../../../images/food and drink.png"
+            src="/images/food and drink.png"
             alt="cardImage"
             className="card-image"
           />

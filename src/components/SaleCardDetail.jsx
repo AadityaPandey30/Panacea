@@ -1,21 +1,21 @@
 import { useState } from "react";
 import { useParams } from "react-router-dom";
-import socialMediaImage1 from "../../images/social_media_image1.png";
-import socialMediaImage2 from "../../images/social_media_image2.png";
-import entertainmentImage1 from "../../images/entertainment_image1.png";
-import entertainmentImage2 from "../../images/entertainment_image2.png";
-import healthAndFitnessImage1 from "../../images/health_and_fitness1.png";
-import healthAndFitnessImage2 from "../../images/health_and_fitness2.png";
-import educationImage1 from "../../images/education1.png";
-import educationImage2 from "../../images/education2.png";
-import travelAndNavigationImage1 from "../../images/travel_and_navigation1.png";
-import travelAndNavigationImage2 from "../../images/travel_and_navigation2.png";
-import shoppingImage1 from "../../images/shopping1.png";
-import shoppingImage2 from "../../images/shopping2.png";
-import medicalAndHealthImage1 from "../../images/medical_and_health1.png";
-import medicalAndHealthImage2 from "../../images/medical_and_health2.png";
-import foodAndDrinkImage1 from "../../images/food_and_drink1.png";
-import foodAndDrinkImage2 from "../../images/food_and_drink2.png";
+import socialMediaImage1 from "/images/social_media_image1.png";
+import socialMediaImage2 from "/images/social_media_image2.png";
+import entertainmentImage1 from "/images/entertainment_image1.png";
+import entertainmentImage2 from "/images/entertainment_image2.png";
+import healthAndFitnessImage1 from "/images/health_and_fitness1.png";
+import healthAndFitnessImage2 from "/images/health_and_fitness2.png";
+import educationImage1 from "/images/education1.png";
+import educationImage2 from "/images/education2.png";
+import travelAndNavigationImage1 from "/images/travel_and_navigation1.png";
+import travelAndNavigationImage2 from "/images/travel_and_navigation2.png";
+import shoppingImage1 from "/images/shopping1.png";
+import shoppingImage2 from "/images/shopping2.png";
+import medicalAndHealthImage1 from "/images/medical_and_health1.png";
+import medicalAndHealthImage2 from "/images/medical_and_health2.png";
+import foodAndDrinkImage1 from "/images/food_and_drink1.png";
+import foodAndDrinkImage2 from "/images/food_and_drink2.png";
 
 const SaleCardDetail = () => {
   const { title } = useParams();
